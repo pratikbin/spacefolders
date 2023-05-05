@@ -318,8 +318,8 @@ docker pull asguardnetwork/spacefolders:lumnetwork-1.3.1
 
 ```shell
 docker pull asguardnetwork/spacefolders:neutron
-docker pull asguardnetwork/spacefolders:neutron-v1.0.0-rc1
-docker pull asguardnetwork/spacefolders:neutron-1.0.0-rc1
+docker pull asguardnetwork/spacefolders:neutron-v1.0.0
+docker pull asguardnetwork/spacefolders:neutron-1.0.0
 ```
 
 ### [nibiru](https://hub.docker.com/r/asguardnetwork/spacefolders/tags?page=1&name=nibiru)
@@ -504,4 +504,6 @@ docker pull asguardnetwork/spacefolders:ununifi-1.0.0-beta.4
 docker pull asguardnetwork/spacefolders:vidulum
 docker pull asguardnetwork/spacefolders:vidulum-v1.2.0
 docker pull asguardnetwork/spacefolders:vidulum-1.2.0
+```
+2.0
 ```
