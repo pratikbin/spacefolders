@@ -326,8 +326,8 @@ docker pull asguardnetwork/spacefolders:neutron-1.0.0
 
 ```shell
 docker pull asguardnetwork/spacefolders:nibiru
-docker pull asguardnetwork/spacefolders:nibiru-v0.20.0-alpha.1
-docker pull asguardnetwork/spacefolders:nibiru-0.20.0-alpha.1
+docker pull asguardnetwork/spacefolders:nibiru-v0.20.0-alpha.2
+docker pull asguardnetwork/spacefolders:nibiru-0.20.0-alpha.2
 ```
 
 ### [nomic](https://hub.docker.com/r/asguardnetwork/spacefolders/tags?page=1&name=nomic)
