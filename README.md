@@ -110,8 +110,8 @@ docker pull asguardnetwork/spacefolders:celestia-core-1.19.0-tm-v0.34.27
 
 ```shell
 docker pull asguardnetwork/spacefolders:celestia-node
-docker pull asguardnetwork/spacefolders:celestia-node-v0.9.2
-docker pull asguardnetwork/spacefolders:celestia-node-0.9.2
+docker pull asguardnetwork/spacefolders:celestia-node-v0.9.3
+docker pull asguardnetwork/spacefolders:celestia-node-0.9.3
 ```
 
 ### [cheqd](https://hub.docker.com/r/asguardnetwork/spacefolders/tags?page=1&name=cheqd)
