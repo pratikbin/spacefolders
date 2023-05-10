@@ -174,8 +174,8 @@ docker pull asguardnetwork/spacefolders:desmos-4.8.1
 
 ```shell
 docker pull asguardnetwork/spacefolders:dig
-docker pull asguardnetwork/spacefolders:dig-v3.4.0
-docker pull asguardnetwork/spacefolders:dig-3.4.0
+docker pull asguardnetwork/spacefolders:dig-v3.5.0
+docker pull asguardnetwork/spacefolders:dig-3.5.0
 ```
 
 ### [duality](https://hub.docker.com/r/asguardnetwork/spacefolders/tags?page=1&name=duality)
