@@ -382,8 +382,8 @@ docker pull asguardnetwork/spacefolders:polygon-bor-0.3.7
 
 ```shell
 docker pull asguardnetwork/spacefolders:polygon-geth
-docker pull asguardnetwork/spacefolders:polygon-geth-v0.3.7
-docker pull asguardnetwork/spacefolders:polygon-geth-0.3.7
+docker pull asguardnetwork/spacefolders:polygon-geth-v0.3.9
+docker pull asguardnetwork/spacefolders:polygon-geth-0.3.9
 ```
 
 ### [polygon-heimdall](https://hub.docker.com/r/asguardnetwork/spacefolders/tags?page=1&name=polygon-heimdall)
