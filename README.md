@@ -374,8 +374,8 @@ docker pull asguardnetwork/spacefolders:panacea-2.0.7-1
 
 ```shell
 docker pull asguardnetwork/spacefolders:polygon-bor
-docker pull asguardnetwork/spacefolders:polygon-bor-v0.3.7
-docker pull asguardnetwork/spacefolders:polygon-bor-0.3.7
+docker pull asguardnetwork/spacefolders:polygon-bor-v0.3.9
+docker pull asguardnetwork/spacefolders:polygon-bor-0.3.9
 ```
 
 ### [polygon-geth](https://hub.docker.com/r/asguardnetwork/spacefolders/tags?page=1&name=polygon-geth)
