@@ -174,8 +174,8 @@ docker pull asguardnetwork/spacefolders:desmos-4.8.1
 
 ```shell
 docker pull asguardnetwork/spacefolders:dig
-docker pull asguardnetwork/spacefolders:dig-v3.5.0
-docker pull asguardnetwork/spacefolders:dig-3.5.0
+docker pull asguardnetwork/spacefolders:dig-v3.6.0
+docker pull asguardnetwork/spacefolders:dig-3.6.0
 ```
 
 ### [duality](https://hub.docker.com/r/asguardnetwork/spacefolders/tags?page=1&name=duality)
@@ -222,8 +222,8 @@ docker pull asguardnetwork/spacefolders:gaia-9.1.0
 
 ```shell
 docker pull asguardnetwork/spacefolders:gravitybridge
-docker pull asguardnetwork/spacefolders:gravitybridge-v1.9.1
-docker pull asguardnetwork/spacefolders:gravitybridge-1.9.1
+docker pull asguardnetwork/spacefolders:gravitybridge-v1.9.2
+docker pull asguardnetwork/spacefolders:gravitybridge-1.9.2
 ```
 
 ### [ibc-go-simd](https://hub.docker.com/r/asguardnetwork/spacefolders/tags?page=1&name=ibc-go-simd)
