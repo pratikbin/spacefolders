@@ -22,8 +22,8 @@ docker pull asguardnetwork/spacefolders:althea-0.4.0
 
 ```shell
 docker pull asguardnetwork/spacefolders:archway
-docker pull asguardnetwork/spacefolders:archway-v0.5.1
-docker pull asguardnetwork/spacefolders:archway-0.5.1
+docker pull asguardnetwork/spacefolders:archway-v0.5.2
+docker pull asguardnetwork/spacefolders:archway-0.5.2
 ```
 
 ### [assetmantle](https://hub.docker.com/r/asguardnetwork/spacefolders/tags?page=1&name=assetmantle)
