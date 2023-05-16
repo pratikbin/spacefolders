@@ -206,8 +206,8 @@ docker pull asguardnetwork/spacefolders:evmos-12.1.2
 
 ```shell
 docker pull asguardnetwork/spacefolders:fetchhub
-docker pull asguardnetwork/spacefolders:fetchhub-v0.10.6
-docker pull asguardnetwork/spacefolders:fetchhub-0.10.6
+docker pull asguardnetwork/spacefolders:fetchhub-v0.10.7
+docker pull asguardnetwork/spacefolders:fetchhub-0.10.7
 ```
 
 ### [gaia](https://hub.docker.com/r/asguardnetwork/spacefolders/tags?page=1&name=gaia)
