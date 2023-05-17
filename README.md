@@ -302,8 +302,8 @@ docker pull asguardnetwork/spacefolders:kujira-0.8.5
 
 ```shell
 docker pull asguardnetwork/spacefolders:likecoin
-docker pull asguardnetwork/spacefolders:likecoin-v3.1.1
-docker pull asguardnetwork/spacefolders:likecoin-3.1.1
+docker pull asguardnetwork/spacefolders:likecoin-v4.0.0-rc1
+docker pull asguardnetwork/spacefolders:likecoin-4.0.0-rc1
 ```
 
 ### [lumnetwork](https://hub.docker.com/r/asguardnetwork/spacefolders/tags?page=1&name=lumnetwork)
@@ -504,6 +504,4 @@ docker pull asguardnetwork/spacefolders:ununifi-1.0.0-beta.4
 docker pull asguardnetwork/spacefolders:vidulum
 docker pull asguardnetwork/spacefolders:vidulum-v1.2.0
 docker pull asguardnetwork/spacefolders:vidulum-1.2.0
-```
-0
 ```
