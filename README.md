@@ -182,8 +182,8 @@ docker pull asguardnetwork/spacefolders:dig-3.6.0
 
 ```shell
 docker pull asguardnetwork/spacefolders:duality
-docker pull asguardnetwork/spacefolders:duality-v0.2.0
-docker pull asguardnetwork/spacefolders:duality-0.2.0
+docker pull asguardnetwork/spacefolders:duality-v0.2.1
+docker pull asguardnetwork/spacefolders:duality-0.2.1
 ```
 
 ### [emoney](https://hub.docker.com/r/asguardnetwork/spacefolders/tags?page=1&name=emoney)
