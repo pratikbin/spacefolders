@@ -102,8 +102,8 @@ docker pull asguardnetwork/spacefolders:celestia-app-0.13.2
 
 ```shell
 docker pull asguardnetwork/spacefolders:celestia-core
-docker pull asguardnetwork/spacefolders:celestia-core-v1.19.0-tm-v0.34.27
-docker pull asguardnetwork/spacefolders:celestia-core-1.19.0-tm-v0.34.27
+docker pull asguardnetwork/spacefolders:celestia-core-v1.20.0-tm-v0.34.27
+docker pull asguardnetwork/spacefolders:celestia-core-1.20.0-tm-v0.34.27
 ```
 
 ### [celestia-node](https://hub.docker.com/r/asguardnetwork/spacefolders/tags?page=1&name=celestia-node)
