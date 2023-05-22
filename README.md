@@ -110,8 +110,8 @@ docker pull asguardnetwork/spacefolders:celestia-core-1.20.0-tm-v0.34.27
 
 ```shell
 docker pull asguardnetwork/spacefolders:celestia-node
-docker pull asguardnetwork/spacefolders:celestia-node-v0.9.5
-docker pull asguardnetwork/spacefolders:celestia-node-0.9.5
+docker pull asguardnetwork/spacefolders:celestia-node-v0.10.0
+docker pull asguardnetwork/spacefolders:celestia-node-0.10.0
 ```
 
 ### [cheqd](https://hub.docker.com/r/asguardnetwork/spacefolders/tags?page=1&name=cheqd)
@@ -505,5 +505,5 @@ docker pull asguardnetwork/spacefolders:vidulum
 docker pull asguardnetwork/spacefolders:vidulum-v1.2.0
 docker pull asguardnetwork/spacefolders:vidulum-1.2.0
 ```
-lum-1.2.0
+m-1.2.0
 ```
