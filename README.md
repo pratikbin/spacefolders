@@ -134,8 +134,8 @@ docker pull asguardnetwork/spacefolders:comdex-9.1.0
 
 ```shell
 docker pull asguardnetwork/spacefolders:crescent
-docker pull asguardnetwork/spacefolders:crescent-v4.0.0
-docker pull asguardnetwork/spacefolders:crescent-4.0.0
+docker pull asguardnetwork/spacefolders:crescent-v4.1.0
+docker pull asguardnetwork/spacefolders:crescent-4.1.0
 ```
 
 ### [cronos](https://hub.docker.com/r/asguardnetwork/spacefolders/tags?page=1&name=cronos)
