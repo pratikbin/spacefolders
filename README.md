@@ -350,8 +350,8 @@ docker pull asguardnetwork/spacefolders:omniflixhub-0.10.0
 
 ```shell
 docker pull asguardnetwork/spacefolders:onomy
-docker pull asguardnetwork/spacefolders:onomy-v1.0.3
-docker pull asguardnetwork/spacefolders:onomy-1.0.3
+docker pull asguardnetwork/spacefolders:onomy-v1.0.3.4
+docker pull asguardnetwork/spacefolders:onomy-1.0.3.4
 ```
 
 ### [osmosis](https://hub.docker.com/r/asguardnetwork/spacefolders/tags?page=1&name=osmosis)
@@ -505,5 +505,5 @@ docker pull asguardnetwork/spacefolders:vidulum
 docker pull asguardnetwork/spacefolders:vidulum-v1.2.0
 docker pull asguardnetwork/spacefolders:vidulum-1.2.0
 ```
-m-1.2.0
+2.0
 ```
