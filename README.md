@@ -214,8 +214,8 @@ docker pull asguardnetwork/spacefolders:fetchhub-0.10.7
 
 ```shell
 docker pull asguardnetwork/spacefolders:gaia
-docker pull asguardnetwork/spacefolders:gaia-v9.1.0
-docker pull asguardnetwork/spacefolders:gaia-9.1.0
+docker pull asguardnetwork/spacefolders:gaia-v10.0.0
+docker pull asguardnetwork/spacefolders:gaia-10.0.0
 ```
 
 ### [gravitybridge](https://hub.docker.com/r/asguardnetwork/spacefolders/tags?page=1&name=gravitybridge)
@@ -505,5 +505,5 @@ docker pull asguardnetwork/spacefolders:vidulum
 docker pull asguardnetwork/spacefolders:vidulum-v1.2.0
 docker pull asguardnetwork/spacefolders:vidulum-1.2.0
 ```
-2.0
+0
 ```
