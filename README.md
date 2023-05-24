@@ -94,8 +94,8 @@ docker pull asguardnetwork/spacefolders:carbon-2.22.1
 
 ```shell
 docker pull asguardnetwork/spacefolders:celestia-app
-docker pull asguardnetwork/spacefolders:celestia-app-v0.13.2
-docker pull asguardnetwork/spacefolders:celestia-app-0.13.2
+docker pull asguardnetwork/spacefolders:celestia-app-v0.13.3
+docker pull asguardnetwork/spacefolders:celestia-app-0.13.3
 ```
 
 ### [celestia-core](https://hub.docker.com/r/asguardnetwork/spacefolders/tags?page=1&name=celestia-core)
