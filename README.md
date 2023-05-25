@@ -1,6 +1,6 @@
 # Spacefolders
 
-Actively creating container images for 62 chains.
+Actively creating container images for 63 chains.
 
 ### [acrechain](https://hub.docker.com/r/asguardnetwork/spacefolders/tags?page=1&name=acrechain)
 
@@ -505,5 +505,11 @@ docker pull asguardnetwork/spacefolders:vidulum
 docker pull asguardnetwork/spacefolders:vidulum-v1.2.0
 docker pull asguardnetwork/spacefolders:vidulum-1.2.0
 ```
-0
+
+### [wasm](https://hub.docker.com/r/asguardnetwork/spacefolders/tags?page=1&name=wasm)
+
+```shell
+docker pull asguardnetwork/spacefolders:wasm
+docker pull asguardnetwork/spacefolders:wasm-v0.40.0
+docker pull asguardnetwork/spacefolders:wasm-0.40.0
 ```
