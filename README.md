@@ -302,8 +302,8 @@ docker pull asguardnetwork/spacefolders:kujira-0.8.5
 
 ```shell
 docker pull asguardnetwork/spacefolders:likecoin
-docker pull asguardnetwork/spacefolders:likecoin-v4.0.0-rc1
-docker pull asguardnetwork/spacefolders:likecoin-4.0.0-rc1
+docker pull asguardnetwork/spacefolders:likecoin-v4.0.0-rc2
+docker pull asguardnetwork/spacefolders:likecoin-4.0.0-rc2
 ```
 
 ### [lumnetwork](https://hub.docker.com/r/asguardnetwork/spacefolders/tags?page=1&name=lumnetwork)
