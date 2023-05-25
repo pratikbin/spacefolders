@@ -358,8 +358,8 @@ docker pull asguardnetwork/spacefolders:onomy-1.0.3.4
 
 ```shell
 docker pull asguardnetwork/spacefolders:osmosis
-docker pull asguardnetwork/spacefolders:osmosis-v15.1.0
-docker pull asguardnetwork/spacefolders:osmosis-15.1.0
+docker pull asguardnetwork/spacefolders:osmosis-v15.1.2
+docker pull asguardnetwork/spacefolders:osmosis-15.1.2
 ```
 
 ### [panacea](https://hub.docker.com/r/asguardnetwork/spacefolders/tags?page=1&name=panacea)
