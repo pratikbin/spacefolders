@@ -398,8 +398,8 @@ docker pull asguardnetwork/spacefolders:polygon-heimdall-0.3.3
 
 ```shell
 docker pull asguardnetwork/spacefolders:quasar
-docker pull asguardnetwork/spacefolders:quasar-v0.1.0
-docker pull asguardnetwork/spacefolders:quasar-0.1.0
+docker pull asguardnetwork/spacefolders:quasar-v0.1.1
+docker pull asguardnetwork/spacefolders:quasar-0.1.1
 ```
 
 ### [regen](https://hub.docker.com/r/asguardnetwork/spacefolders/tags?page=1&name=regen)
