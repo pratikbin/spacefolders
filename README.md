@@ -366,8 +366,8 @@ docker pull asguardnetwork/spacefolders:osmosis-15.1.0
 
 ```shell
 docker pull asguardnetwork/spacefolders:panacea
-docker pull asguardnetwork/spacefolders:panacea-v2.0.7-1
-docker pull asguardnetwork/spacefolders:panacea-2.0.7-1
+docker pull asguardnetwork/spacefolders:panacea-v2.0.7-2
+docker pull asguardnetwork/spacefolders:panacea-2.0.7-2
 ```
 
 ### [polygon-bor](https://hub.docker.com/r/asguardnetwork/spacefolders/tags?page=1&name=polygon-bor)
