@@ -286,8 +286,8 @@ docker pull asguardnetwork/spacefolders:juno-14.1.0
 
 ```shell
 docker pull asguardnetwork/spacefolders:kichain
-docker pull asguardnetwork/spacefolders:kichain-5.0.1
-docker pull asguardnetwork/spacefolders:kichain-5.0.1
+docker pull asguardnetwork/spacefolders:kichain-5.0.2
+docker pull asguardnetwork/spacefolders:kichain-5.0.2
 ```
 
 ### [kujira](https://hub.docker.com/r/asguardnetwork/spacefolders/tags?page=1&name=kujira)
