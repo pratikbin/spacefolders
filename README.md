@@ -198,8 +198,8 @@ docker pull asguardnetwork/spacefolders:emoney-1.2.0
 
 ```shell
 docker pull asguardnetwork/spacefolders:evmos
-docker pull asguardnetwork/spacefolders:evmos-v12.1.3
-docker pull asguardnetwork/spacefolders:evmos-12.1.3
+docker pull asguardnetwork/spacefolders:evmos-v12.1.4
+docker pull asguardnetwork/spacefolders:evmos-12.1.4
 ```
 
 ### [fetchhub](https://hub.docker.com/r/asguardnetwork/spacefolders/tags?page=1&name=fetchhub)
