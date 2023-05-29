@@ -278,8 +278,8 @@ docker pull asguardnetwork/spacefolders:irisnet-2.0.2
 
 ```shell
 docker pull asguardnetwork/spacefolders:juno
-docker pull asguardnetwork/spacefolders:juno-v14.1.0
-docker pull asguardnetwork/spacefolders:juno-14.1.0
+docker pull asguardnetwork/spacefolders:juno-v15.0.0
+docker pull asguardnetwork/spacefolders:juno-15.0.0
 ```
 
 ### [kichain](https://hub.docker.com/r/asguardnetwork/spacefolders/tags?page=1&name=kichain)
