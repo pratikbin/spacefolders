@@ -318,8 +318,8 @@ docker pull asguardnetwork/spacefolders:lumnetwork-1.4.1
 
 ```shell
 docker pull asguardnetwork/spacefolders:neutron
-docker pull asguardnetwork/spacefolders:neutron-v1.0.1
-docker pull asguardnetwork/spacefolders:neutron-1.0.1
+docker pull asguardnetwork/spacefolders:neutron-v1.0.2
+docker pull asguardnetwork/spacefolders:neutron-1.0.2
 ```
 
 ### [nibiru](https://hub.docker.com/r/asguardnetwork/spacefolders/tags?page=1&name=nibiru)
