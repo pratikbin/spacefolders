@@ -110,7 +110,7 @@ docker pull asguardnetwork/spacefolders:celestia-core-1.21.1-tm-v0.34.27
 
 ```shell
 docker pull asguardnetwork/spacefolders:celestia-node
-docker pull asguardnetwork/spacefolders:celestia-node-0.10.1
+docker pull asguardnetwork/spacefolders:celestia-node-v0.10.1
 docker pull asguardnetwork/spacefolders:celestia-node-0.10.1
 ```
 
@@ -513,6 +513,5 @@ docker pull asguardnetwork/spacefolders:wasm
 docker pull asguardnetwork/spacefolders:wasm-v0.40.0
 docker pull asguardnetwork/spacefolders:wasm-0.40.0
 ```
-
 0.0
 ```
