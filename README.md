@@ -142,8 +142,8 @@ docker pull asguardnetwork/spacefolders:crescent-4.1.1
 
 ```shell
 docker pull asguardnetwork/spacefolders:cronos
-docker pull asguardnetwork/spacefolders:cronos-v1.0.7
-docker pull asguardnetwork/spacefolders:cronos-1.0.7
+docker pull asguardnetwork/spacefolders:cronos-v1.0.8
+docker pull asguardnetwork/spacefolders:cronos-1.0.8
 ```
 
 ### [cryptoorgchain](https://hub.docker.com/r/asguardnetwork/spacefolders/tags?page=1&name=cryptoorgchain)
