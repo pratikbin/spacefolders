@@ -150,8 +150,8 @@ docker pull asguardnetwork/spacefolders:cronos-1.0.7
 
 ```shell
 docker pull asguardnetwork/spacefolders:cryptoorgchain
-docker pull asguardnetwork/spacefolders:cryptoorgchain-v4.2.2
-docker pull asguardnetwork/spacefolders:cryptoorgchain-4.2.2
+docker pull asguardnetwork/spacefolders:cryptoorgchain-v4.2.5
+docker pull asguardnetwork/spacefolders:cryptoorgchain-4.2.5
 ```
 
 ### [decentr](https://hub.docker.com/r/asguardnetwork/spacefolders/tags?page=1&name=decentr)
