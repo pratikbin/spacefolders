@@ -342,8 +342,8 @@ docker pull asguardnetwork/spacefolders:nomic-3
 
 ```shell
 docker pull asguardnetwork/spacefolders:omniflixhub
-docker pull asguardnetwork/spacefolders:omniflixhub-v0.10.0
-docker pull asguardnetwork/spacefolders:omniflixhub-0.10.0
+docker pull asguardnetwork/spacefolders:omniflixhub-v0.10.1
+docker pull asguardnetwork/spacefolders:omniflixhub-0.10.1
 ```
 
 ### [onomy](https://hub.docker.com/r/asguardnetwork/spacefolders/tags?page=1&name=onomy)
