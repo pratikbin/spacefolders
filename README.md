@@ -310,8 +310,8 @@ docker pull asguardnetwork/spacefolders:likecoin-4.0.0
 
 ```shell
 docker pull asguardnetwork/spacefolders:lumnetwork
-docker pull asguardnetwork/spacefolders:lumnetwork-v1.4.1
-docker pull asguardnetwork/spacefolders:lumnetwork-1.4.1
+docker pull asguardnetwork/spacefolders:lumnetwork-v1.4.2-rc
+docker pull asguardnetwork/spacefolders:lumnetwork-1.4.2-rc
 ```
 
 ### [neutron](https://hub.docker.com/r/asguardnetwork/spacefolders/tags?page=1&name=neutron)
