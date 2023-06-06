@@ -454,8 +454,8 @@ docker pull asguardnetwork/spacefolders:sommelier-6.0.0
 
 ```shell
 docker pull asguardnetwork/spacefolders:stargaze
-docker pull asguardnetwork/spacefolders:stargaze-v10.0.0
-docker pull asguardnetwork/spacefolders:stargaze-10.0.0
+docker pull asguardnetwork/spacefolders:stargaze-v10.0.1
+docker pull asguardnetwork/spacefolders:stargaze-10.0.1
 ```
 
 ### [starname](https://hub.docker.com/r/asguardnetwork/spacefolders/tags?page=1&name=starname)
