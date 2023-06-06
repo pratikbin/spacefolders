@@ -510,7 +510,7 @@ docker pull asguardnetwork/spacefolders:vidulum-1.2.0
 
 ```shell
 docker pull asguardnetwork/spacefolders:wasm
-docker pull asguardnetwork/spacefolders:wasm-v0.40.0
-docker pull asguardnetwork/spacefolders:wasm-0.40.0
+docker pull asguardnetwork/spacefolders:wasm-v0.40.1
+docker pull asguardnetwork/spacefolders:wasm-0.40.1
 ```
 ```
