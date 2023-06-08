@@ -470,8 +470,8 @@ docker pull asguardnetwork/spacefolders:starname-0.11.7
 
 ```shell
 docker pull asguardnetwork/spacefolders:stride
-docker pull asguardnetwork/spacefolders:stride-v9.2.0
-docker pull asguardnetwork/spacefolders:stride-9.2.0
+docker pull asguardnetwork/spacefolders:stride-v9.2.1
+docker pull asguardnetwork/spacefolders:stride-9.2.1
 ```
 
 ### [tendermint](https://hub.docker.com/r/asguardnetwork/spacefolders/tags?page=1&name=tendermint)
