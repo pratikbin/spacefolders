@@ -406,8 +406,8 @@ docker pull asguardnetwork/spacefolders:quasar-0.1.1
 
 ```shell
 docker pull asguardnetwork/spacefolders:regen
-docker pull asguardnetwork/spacefolders:regen-v5.1.1
-docker pull asguardnetwork/spacefolders:regen-5.1.1
+docker pull asguardnetwork/spacefolders:regen-v5.1.2
+docker pull asguardnetwork/spacefolders:regen-5.1.2
 ```
 
 ### [rizon](https://hub.docker.com/r/asguardnetwork/spacefolders/tags?page=1&name=rizon)
