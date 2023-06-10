@@ -270,8 +270,8 @@ docker pull asguardnetwork/spacefolders:injective-1.10.0-1679065799
 
 ```shell
 docker pull asguardnetwork/spacefolders:irisnet
-docker pull asguardnetwork/spacefolders:irisnet-v2.0.2
-docker pull asguardnetwork/spacefolders:irisnet-2.0.2
+docker pull asguardnetwork/spacefolders:irisnet-v2.0.3
+docker pull asguardnetwork/spacefolders:irisnet-2.0.3
 ```
 
 ### [juno](https://hub.docker.com/r/asguardnetwork/spacefolders/tags?page=1&name=juno)
