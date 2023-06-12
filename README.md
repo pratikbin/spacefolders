@@ -390,8 +390,8 @@ docker pull asguardnetwork/spacefolders:polygon-geth-0.3.9
 
 ```shell
 docker pull asguardnetwork/spacefolders:polygon-heimdall
-docker pull asguardnetwork/spacefolders:polygon-heimdall-v0.3.3
-docker pull asguardnetwork/spacefolders:polygon-heimdall-0.3.3
+docker pull asguardnetwork/spacefolders:polygon-heimdall-v0.3.4
+docker pull asguardnetwork/spacefolders:polygon-heimdall-0.3.4
 ```
 
 ### [quasar](https://hub.docker.com/r/asguardnetwork/spacefolders/tags?page=1&name=quasar)
