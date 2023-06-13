@@ -494,8 +494,8 @@ docker pull asguardnetwork/spacefolders:terra-2.3.4
 
 ```shell
 docker pull asguardnetwork/spacefolders:ununifi
-docker pull asguardnetwork/spacefolders:ununifi-v2.2.0
-docker pull asguardnetwork/spacefolders:ununifi-2.2.0
+docker pull asguardnetwork/spacefolders:ununifi-v3.0.0
+docker pull asguardnetwork/spacefolders:ununifi-3.0.0
 ```
 
 ### [vidulum](https://hub.docker.com/r/asguardnetwork/spacefolders/tags?page=1&name=vidulum)
