@@ -126,8 +126,8 @@ docker pull asguardnetwork/spacefolders:cheqd-1.4.4
 
 ```shell
 docker pull asguardnetwork/spacefolders:comdex
-docker pull asguardnetwork/spacefolders:comdex-v9.1.2
-docker pull asguardnetwork/spacefolders:comdex-9.1.2
+docker pull asguardnetwork/spacefolders:comdex-v11.5.0
+docker pull asguardnetwork/spacefolders:comdex-11.5.0
 ```
 
 ### [crescent](https://hub.docker.com/r/asguardnetwork/spacefolders/tags?page=1&name=crescent)
@@ -513,5 +513,4 @@ docker pull asguardnetwork/spacefolders:wasm
 docker pull asguardnetwork/spacefolders:wasm-v0.40.1
 docker pull asguardnetwork/spacefolders:wasm-0.40.1
 ```
-`
 ```
