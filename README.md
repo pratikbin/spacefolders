@@ -230,8 +230,8 @@ docker pull asguardnetwork/spacefolders:gravitybridge-1.10.0
 
 ```shell
 docker pull asguardnetwork/spacefolders:ibc-go-simd
-docker pull asguardnetwork/spacefolders:ibc-go-simd-v7.1.0
-docker pull asguardnetwork/spacefolders:ibc-go-simd-7.1.0
+docker pull asguardnetwork/spacefolders:ibc-go-simd-v7.2.0
+docker pull asguardnetwork/spacefolders:ibc-go-simd-7.2.0
 ```
 
 ### [icad](https://hub.docker.com/r/asguardnetwork/spacefolders/tags?page=1&name=icad)
