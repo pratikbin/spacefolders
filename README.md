@@ -166,8 +166,8 @@ docker pull asguardnetwork/spacefolders:decentr-1.6.2
 
 ```shell
 docker pull asguardnetwork/spacefolders:desmos
-docker pull asguardnetwork/spacefolders:desmos-v5.1.0
-docker pull asguardnetwork/spacefolders:desmos-5.1.0
+docker pull asguardnetwork/spacefolders:desmos-v5.2.0
+docker pull asguardnetwork/spacefolders:desmos-5.2.0
 ```
 
 ### [dig](https://hub.docker.com/r/asguardnetwork/spacefolders/tags?page=1&name=dig)
