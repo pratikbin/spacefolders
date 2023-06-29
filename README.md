@@ -54,8 +54,8 @@ docker pull asguardnetwork/spacefolders:basilisk-13.1.0
 
 ```shell
 docker pull asguardnetwork/spacefolders:bitcanna
-docker pull asguardnetwork/spacefolders:bitcanna-v1.7.0
-docker pull asguardnetwork/spacefolders:bitcanna-1.7.0
+docker pull asguardnetwork/spacefolders:bitcanna-v2.0.2
+docker pull asguardnetwork/spacefolders:bitcanna-2.0.2
 ```
 
 ### [bitsong](https://hub.docker.com/r/asguardnetwork/spacefolders/tags?page=1&name=bitsong)
