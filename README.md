@@ -222,8 +222,8 @@ docker pull asguardnetwork/spacefolders:gaia-10.0.2
 
 ```shell
 docker pull asguardnetwork/spacefolders:gravitybridge
-docker pull asguardnetwork/spacefolders:gravitybridge-v1.10.0
-docker pull asguardnetwork/spacefolders:gravitybridge-1.10.0
+docker pull asguardnetwork/spacefolders:gravitybridge-v1.10.1
+docker pull asguardnetwork/spacefolders:gravitybridge-1.10.1
 ```
 
 ### [ibc-go-simd](https://hub.docker.com/r/asguardnetwork/spacefolders/tags?page=1&name=ibc-go-simd)
