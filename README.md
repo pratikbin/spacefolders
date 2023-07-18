@@ -38,8 +38,8 @@ docker pull asguardnetwork/spacefolders:assetmantle-0.3.1
 
 ```shell
 docker pull asguardnetwork/spacefolders:axelar
-docker pull asguardnetwork/spacefolders:axelar-v0.33.1
-docker pull asguardnetwork/spacefolders:axelar-0.33.1
+docker pull asguardnetwork/spacefolders:axelar-v0.33.3
+docker pull asguardnetwork/spacefolders:axelar-0.33.3
 ```
 
 ### [basilisk](https://hub.docker.com/r/asguardnetwork/spacefolders/tags?page=1&name=basilisk)
