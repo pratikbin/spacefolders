@@ -1,6 +1,6 @@
 # Spacefolders
 
-Actively creating container images for 63 chains.
+Actively creating container images for 64 chains.
 
 ### [acrechain](https://hub.docker.com/r/pratikbin/spacefolders/tags?page=1&name=acrechain)
 
@@ -482,6 +482,14 @@ docker pull pratikbin/spacefolders:terra-v2.4.1
 docker pull pratikbin/spacefolders:terra-2.4.1
 ```
 
+### [terra-classic](https://hub.docker.com/r/pratikbin/spacefolders/tags?page=1&name=terra-classic)
+
+```shell
+docker pull pratikbin/spacefolders:terra-classic
+docker pull pratikbin/spacefolders:terra-classic-v2.1.2
+docker pull pratikbin/spacefolders:terra-classic-2.1.2
+```
+
 ### [tofnd](https://hub.docker.com/r/pratikbin/spacefolders/tags?page=1&name=tofnd)
 
 ```shell
@@ -513,15 +521,7 @@ docker pull pratikbin/spacefolders:wasm
 docker pull pratikbin/spacefolders:wasm-v0.40.1
 docker pull pratikbin/spacefolders:wasm-0.40.1
 ```
-hub.docker.com/r/asguardnetwork/spacefolders/tags?page=1&name=tendermint)
-
-```shell
-docker pull asguardnetwork/spacefolders:tendermint
-docker pull asguardnetwork/spacefolders:tendermint-v0.34.24
-docker pull asguardnetwork/spacefolders:tendermint-0.34.24
-```
-
-### [terra](https://hub.docker.com/r/asguardnetwork/spacefolders/tags?page=1&name=terra)
+s://hub.docker.com/r/asguardnetwork/spacefolders/tags?page=1&name=terra)
 
 ```shell
 docker pull asguardnetwork/spacefolders:terra
